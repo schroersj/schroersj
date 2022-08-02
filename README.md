@@ -37,3 +37,11 @@ Software and IDEs
 Industries:
 - State & Local Government
 - Consumer Packaged Goods
+
+
+TODO:
+- [ ] Add icons
+  - [Dev Icons](https://github.com/devicons/devicon)
+  - [Azure Icons](https://github.com/David-Summers/Azure-Design)
+  - [Examples of integration](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md?plain=1)
+- [ ] Organize and re-arrange
