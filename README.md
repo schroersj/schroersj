@@ -1,9 +1,9 @@
-# Welcome 👋🏻
+# Welcome 👨🏻‍💻
 
 ### Background
-I am currently working as a Data & Analytics Consultant for a mid-sized consulting firm headquartered in Richmond, Virginia. I would consider myself a Big Data Engineer at the moment, but I have also dabbled in Data Analysis, Data Science, and Data Visualization. 
+I am currently positioned as an Associate Manager of Data Engineering for a Fortune 200 Consumer Packaged Goods company headquartered in Richmond, Virginia. I would consider myself a Big Data Engineer at the moment, but I have also dabbled in Data Analysis, Data Science, and Data Visualization. 
 
-I have prior experience in State and Local Government from an engagement on a large-scale Worker's Compensation Board project, and I am currently staffed in the Consumer Packaged Goods field at a Fortune 200 company headquartered in Richmond, Virginia. 
+I also have prior experience in State and Local Government from an engagement on a large-scale Worker's Compensation Board project. 
 <hr>
 
 ### Certifications:
