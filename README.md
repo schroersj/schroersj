@@ -19,7 +19,6 @@ Languages:
 <br>
 <img alt="SQL" title="SQL" width="22px" height="22px" src="https://www.pngkit.com/png/full/231-2316751_database-database-icon-png.png"/> &ensp;
 <img alt="Python" title="Python" width="22px" height="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> &ensp;
-<img alt="Spark" title="Spark" width="22px" height="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png"/> &ensp;
 <img alt="R" title="R" width="22px" height="22px" src="https://www.r-project.org/logo/Rlogo.png"/>
 
 Resources:
